@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Plasma Gamma
+GenericName=Display Gamma Control
+Comment=Adjust display gamma from the system tray with global shortcuts
+Exec=plasma-gamma
+Icon=preferences-desktop-display-color
+Categories=Qt;KDE;Utility;
+OnlyShowIn=KDE;
+X-DBUS-StartupType=Unique
